@@ -13,6 +13,7 @@ Dosen: Akuwan Saleh, S.ST, MT
 DEPARTEMEN TEKNIK ELEKTRO
 POLITEKNIK ELEKTRONIKA NEGERI SURABAYA
 2021/2022
+
 Tempat Sampah Otomatis menggunakan Arduino Uno dengan
 Servo dan IR Sensor
 I. Latar Belakang
